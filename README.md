@@ -1,5 +1,6 @@
 # ScreenSpaceShadowMapping
-自定义实现基于屏幕的ShadowMapping
+大概在一年前的西山居开发者讨论会上，我问了一个我当时挺疑惑的问题，大概是：怎么理解Unity内置的Screen Space Shadow Mapping？它跟普通的Shadow Mapping有什么不同？ 当时并没有人能够回答我，直到最近我顿悟到一些理解，记录分享一下......
+http://blog.chenyong.me/2018/09/18/sssm/
 
 Screenshots:
 
